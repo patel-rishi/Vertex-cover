@@ -1,0 +1,6 @@
+/home/ra9patel/ra9patel/a3/build/run/bin/ece650-a1.py
+/home/ra9patel/ra9patel/a3/build/run/bin/subroutines.py
+/home/ra9patel/ra9patel/a3/build/run/bin/rgen
+/home/ra9patel/ra9patel/a3/build/run/bin/list
+/home/ra9patel/ra9patel/a3/build/run/bin/ece650-a2
+/home/ra9patel/ra9patel/a3/build/run/bin/ece650-a3
