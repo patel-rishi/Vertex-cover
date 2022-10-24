@@ -1,4 +1,4 @@
-# ECE-650
+# ECE 650 - Methods and Tools for Software Engineering
 
 A simple implementation of the vertex cover problem. Python and C++ were used to construct the logic, and Pipes were used
 for inter-process communication. User will provide inputs in the form of edges and
